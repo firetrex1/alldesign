@@ -37,6 +37,14 @@
     "vite": "5.4.11"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firetrex1/alldesign.git"
+  },
+  "homepage": "https://github.com/firetrex1/alldesign#readme",
+  "bugs": {
+    "url": "https://github.com/firetrex1/alldesign/issues"
+  },
   "bin": {
     "alldesign": "bin/design"
   },
@@ -44,13 +52,15 @@
     "node": ">=22.6"
   },
   "keywords": [
-    "design",
-    "editor",
+    "design-editor",
+    "vector-graphics",
+    "image-editor",
     "canvas",
     "svg",
-    "carousel",
-    "vector",
+    "typescript",
     "react",
-    "typescript"
+    "vite",
+    "carousel",
+    "cli"
   ]
 }
